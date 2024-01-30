@@ -5,6 +5,7 @@ import Nav from "@/components/Nav";
 import { Projects } from "@/components/Projects";
 import Services from "@/components/Services";
 import Skills from "@/components/Skills";
+import { Testimonial } from "@/components/Testimonial";
 import React, { useState } from "react";
 
 const HomePage = () => {
@@ -29,6 +30,8 @@ const HomePage = () => {
           <Skills />
           {/* Project */}
           <Projects />
+          {/* Reviews/testimonial */}
+          <Testimonial />
         </div>
       </div>
     </div>

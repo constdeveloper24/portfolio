@@ -2,6 +2,7 @@ import About from "@/components/About";
 import Hero from "@/components/Hero";
 import MobileNav from "@/components/MobileNav";
 import Nav from "@/components/Nav";
+import { Projects } from "@/components/Projects";
 import Services from "@/components/Services";
 import Skills from "@/components/Skills";
 import React, { useState } from "react";
@@ -26,6 +27,8 @@ const HomePage = () => {
           <Services />
           {/* Skills */}
           <Skills />
+          {/* Project */}
+          <Projects />
         </div>
       </div>
     </div>

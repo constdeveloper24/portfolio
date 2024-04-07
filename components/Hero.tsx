@@ -11,7 +11,8 @@ const Hero = () => {
       <div className="w-[80%] grid-cols-2 mx-auto grid 1g:grid-cols-2 gap-[3rem] h-[100%] items-center">
         <div>
           <h1 className="text-[35px] md:text-[50px] text-white font-bold">
-            HI, I'M <span className="text-yellow-400">CONSTDEVELOPER24</span>
+            HI, I&apos;M{" "}
+            <span className="text-yellow-400">CONSTDEVELOPER24</span>
           </h1>
           <TextEffect />
           <p className="mt-[1.5rem] text-[18px] text-[#ffffff92]">

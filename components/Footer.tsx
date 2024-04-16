@@ -18,7 +18,7 @@ const Footer = () => {
               Address
             </h1>
             <p className="text-[17px] w-[90%] text-white opacity-60">
-              Lorem ipsum dolor sit amet consectetur, adipisicing elit.
+              서울 관악구
             </p>
           </div>
         </div>
@@ -44,7 +44,7 @@ const Footer = () => {
               Send Us Email
             </h1>
             <p className="text-[17px] w-[90%] text-white opacity-60">
-              Example.com
+              constdeveloper24@gmail.com
             </p>
           </div>
         </div>
